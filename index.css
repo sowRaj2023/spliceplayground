@@ -1,0 +1,11 @@
+.bg-container{
+    height: 100vh;
+    background-color: lightslategrey;
+    border-radius: 30px;
+    border-color: black;
+    border-style: double;
+}
+
+.array-container{
+    background-color: whitesmoke;
+}
